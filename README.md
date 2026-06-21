@@ -1,28 +1,334 @@
-<h1 align="center">Hi 👋, I'm Pradhumen</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║     ██████╗ ██████╗ ███████╗██████╗ ██╗  ██╗██╗   ██╗███╗   ║
+║     ██╔══██╗██╔══██╗██╔════╝██╔══██╗██║  ██║██║   ██║████╗  ║
+║     ██████╔╝██████╔╝█████╗  ██║  ██║██║  ██║██║   ██║██╔██╗ ║
+║     ██╔═══╝ ██╔══██╗██╔══╝  ██║  ██║██║  ██║██║   ██║██║██╗ ║
+║     ██║     ██║  ██║███████╗██████╔╝╚██████╔╝╚██████╔╝██║╚██╗║
+║     ╚═╝     ╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝  ╚═════╝ ╚═╝ ╚═╝║
+║                                                               ║
+║        Full Stack Developer | Web Architect | AI Pioneer      ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-- 🔭 I’m currently working on [Social Documentary](https://socialdocumentary.net)
+---
 
-- 🌱 I’m currently learning **Gatsby Js, Node Js**
+## 🚀 The Future Starts Here
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pradhumen/](https://github.com/Pradhumen/)
+I'm a **full-stack architect** crafting next-generation web experiences using cutting-edge technologies. With **5+ years** of battle-tested development, I build scalable, high-performance applications that push the boundaries of what's possible on the web.
 
-- 📝 I regularly write articles on [https://www.turtlecore.com/blogs](https://www.turtlecore.com/blogs)
+**Currently building:** Immersive 3D product customization experiences at **Sedar Global** 🎨
 
-- 💬 Ask me about **react ,next js ,laravel,SSL,aws,hosting reated every web development questions**
+---
 
-- 📫 How to reach me **https://www.linkedin.com/in/pradhumen2000**
+## 🔥 What I Do
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pradhumen2000](https://www.linkedin.com/in/pradhumen2000)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  FRONTEND INNOVATION      │  BACKEND ARCHITECTURE  │  CLOUD OPS │
+├─────────────────────────────────────────────────────────────────┤
+│ • React Fiber            │ • Node.js Scaling      │ • AWS EC2   │
+│ • Next.js (SSR/SSG)      │ • Express.js           │ • S3 Storage│
+│ • 3D Web (Three.js)      │ • Nest.js Framework    │ • RDS/Postgres
+│ • Real-time UX           │ • GraphQL APIs         │ • CI/CD     │
+│ • Responsive Design      │ • Database Optimization│ • Load Test │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/pradhumen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pradhumen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pradhumen2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradhumen2000" height="30" width="40" /></a>
-<a href="https://codesandbox.com/pradhumen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pradhumen" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 💻 Tech Arsenal
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradhumen&show_icons=true&locale=en&layout=compact" alt="pradhumen" /></p>
+<table>
+<tr>
+<td width="50%">
+
+### Frontend Superpowers
+```javascript
+const stack = {
+  frameworks: ['React.js', 'Next.js', 'Gatsby.js'],
+  styling: ['Tailwind CSS', 'Material UI', 'Bootstrap'],
+  3D: ['Three.js', 'Babylon.js'],
+  state: ['Redux', 'Context API'],
+  languages: ['JavaScript (ES6+)', 'TypeScript'],
+  extras: ['HTML5', 'CSS3', 'Responsive Design']
+}
+```
+
+</td>
+<td width="50%">
+
+### Backend Mastery
+```javascript
+const backend = {
+  servers: ['Node.js', 'Express.js', 'Nest.js'],
+  php: ['Laravel', 'CodeIgniter'],
+  databases: ['PostgreSQL', 'MySQL', 'Firebase'],
+  apis: ['RESTful', 'GraphQL'],
+  orm: ['Prisma', 'Sequelize'],
+  optimization: ['Caching', 'Query Tuning']
+}
+```
+
+</td>
+</tr>
+</table>
+
+### Cloud & DevOps Arsenal
+```
+AWS           │ EC2 | S3 | SES | Elastic Beanstalk
+DevTools      │ Git | GitHub | Postman | Docker
+Testing       │ Unit Testing | Debugging | Code Review
+AI Enhanced   │ Claude AI | Cursor IDE | GitHub Copilot
+```
+
+---
+
+## 💼 Professional Journey
+
+### 🎯 Current Mission
+**Full Stack Developer** @ **Sedar Global** | Jan 2025 – Present
+- 🏛️ Building the Interior Solutions digital revolution
+- 🎨 Crafting immersive 3D product customization with **Three.js**
+- ⚡ Scaling backend with **Node.js + Nest.js + Prisma**
+- 🚀 Real-time 3D visualization enabling customers to preview interior products in simulated room environments
+- 📱 Designed interactive digital kiosk solutions transforming the showroom experience
+
+### 🚀 Previous Battles Won
+**Web Developer** @ **W3care Technologies** | Sep 2022 – Dec 2024
+- ⚙️ Architected **20+ production RESTful APIs** (Laravel & Node.js)
+- 🎯 Reduced API integration time by **40%**
+- 🔥 Built lightning-fast websites with **Next.js & Gatsby.js** (SSG/SSR)
+- 📊 Optimized database queries → **enhanced performance & UX**
+- 🎨 Engineered custom **Craft CMS & ExpressionEngine** plugins
+- 🧠 Mentored junior developers → improved code quality by **20%**
+
+**Web Developer** @ **Login2Design Technologies** | Mar 2021 - June 2022
+- 💡 Delivered end-to-end solutions (Laravel, React, Vue.js)
+- 🔧 Implemented MVC architecture & OOP best practices
+- 👥 Code reviews & team mentoring initiatives
+
+**Data-Driven Growth** @ **VGL, Jaipur** | Mar 2020 - Feb 2021
+- 📈 Advanced analytics & market intelligence
+- 🎯 Data-backed business strategy recommendations
+
+---
+
+## 🏆 Showcase of Innovation
+
+### ⭐ **Sedar Global** | 3D Product Customization Platform
+```
+Technologies: React.js | Next.js | Three.js | Oracle Apex | Python
+             OpenAI | Claude Code | GitHub | ElevenLabs | N8N
+             Supabase | PostgreSQL
+```
+🎯 **Mission Accomplished:**
+- ✨ Interactive digital kiosk solution for showroom autonomy
+- 🌐 Real-time 3D visualization (curtains, blinds, interior products)
+- 🎭 Simulated room environments for better customer decisions
+- 📈 Eliminated in-store queuing & staff dependency
+- 🚀 Enhanced customer engagement & decision efficiency
+
+### ⭐ **Playing for Change** | Global Media Platform
+```
+Technologies: Next.js | Node.js | Craft CMS | AWS (S3, RDS, Elastic Beanstalk)
+             AWS Amplify | CI/CD | GitLab
+```
+🎯 **Engineering Excellence:**
+- 🔄 Full-stack optimization & load balancing
+- 🛠️ Architected CI/CD pipeline for seamless deployments
+- 📦 Frontend/Backend infrastructure mastery
+- ⚡ Production-grade scalability
+
+### ⭐ **Uniquely.ie** | E-Commerce Platform
+```
+Technologies: React.js | Next.js | Craft CMS | GraphQL | MySQL
+```
+🎯 **Performance & Integration:**
+- ⚡ Scalable high-performance frontend
+- 🎨 GraphQL-powered efficient data handling
+- 🔗 Automated data sync via webhooks
+- 🔍 SEO optimization + structured data
+- 📊 API performance tuning
+
+### ⭐ **SK Finance** | Loan Management System
+```
+Technologies: Laravel | Core PHP | MySQL (Stored Procedures, Triggers)
+```
+🎯 **Financial Solutions:**
+- 💰 Vehicle & home loan approval system
+- 📊 EMI calculators & role-based dashboards
+- 🔐 Secure financial data handling
+
+### ⭐ **Pathykan** | Subscription Management
+```
+Technologies: CodeIgniter | MySQL | mPDF | Google Analytics
+```
+🎯 **Custom Solutions:**
+- 📄 PDF generation & merging system
+- 📋 Multi-tier subscription workflows
+- 📊 Advanced analytics integration
+
+---
+
+## 📊 By The Numbers
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                    IMPACT & METRICS                        ║
+╠════════════════════════════════════════════════════════════╣
+║  Years in Battle        │ 5+                              ║
+║  Production APIs Built  │ 20+                             ║
+║  Projects Completed     │ 50+                             ║
+║  Team Code Quality ↑    │ 20%                             ║
+║  API Integration ↓      │ 40% Faster                      ║
+║  Database Query ↓       │ Optimized for Speed             ║
+║  Mentees Guided         │ Multiple Developers             ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🎓 Credentials & Certifications
+
+```
+🏅 University of Rajasthan, Jaipur
+   BCA Degree (2017-2020) | CGPA: 6.8/10
+
+📜 10 Weeks YPO Retail AI Challenge | VJAL Institute
+   Completed intensive AI-focused development training
+
+🚀 Lead Capture CRM Specialization | Leadsquard CMS
+   Advanced CRM development certification
+```
+
+---
+
+## 🤖 AI-Powered Development
+
+I leverage next-generation AI tools to accelerate development:
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  • Claude AI - Advanced code generation & problem solving │
+│  • Cursor IDE - AI-enhanced code editor                   │
+│  • GitHub Copilot - Intelligent code completion           │
+│  • Antigravity - Workflow automation                       │
+│  • Trae IDE - Specialized development environment         │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🧠 Development Philosophy
+
+> **"Code is poetry. Architecture is art. Performance is the heartbeat."**
+
+- 🎯 **Problem-Solver First** - Understand the "why" before coding
+- ⚡ **Performance Obsessed** - Every millisecond counts
+- 🧹 **Clean Code Advocate** - Maintainability is non-negotiable
+- 🚀 **Scalability Minded** - Build for growth, not just today
+- 🤝 **Team Enabler** - Mentoring & knowledge sharing fuel growth
+- 🔬 **Innovation Driven** - Always exploring emerging technologies
+
+---
+
+## 🌟 Areas of Expertise
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  Full-Stack Web Development        ████████████████ 95%   │
+│  React & Modern JavaScript         ████████████████ 95%   │
+│  Backend Architecture & APIs       ████████████████ 92%   │
+│  Database Design & Optimization   ████████████████ 90%   │
+│  Cloud Infrastructure (AWS)        ██████████████   85%   │
+│  3D Web Development (Three.js)    ████████████     80%   │
+│  GraphQL & Real-time Systems      ████████████     80%   │
+│  Performance Optimization          ████████████████ 92%   │
+│  Team Leadership & Mentoring       ██████████       78%   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Pradhumen-181717?style=for-the-badge&logo=github)](https://github.com/Pradhumen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradhumen-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pradhumen2000)
+[![Portfolio](https://img.shields.io/badge/Email-Get%20in%20Touch-FF6B6B?style=for-the-badge&logo=mail.ru)]()
+
+</div>
+
+---
+
+## 🎯 Looking For
+
+- 🚀 **Innovative Projects** - Pushing the boundaries of web technology
+- 💡 **Collaboration** - Building amazing products with talented teams
+- 🌱 **Growth Opportunities** - Continuous learning & evolution
+- 🤝 **Mentorship** - Sharing knowledge & empowering developers
+- 🔬 **Cutting-Edge Tech** - AI, 3D Web, Real-time systems
+
+---
+
+## 📈 Current Focus (2025 & Beyond)
+
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+█ 3D Web Experiences      - Advanced Three.js & Babylon.js
+█ AI Integration          - LLM APIs & intelligent automation  
+█ Real-time Systems       - WebSockets & collaborative apps
+█ Performance Engineering - Edge computing & optimization
+█ Cloud Architecture      - Serverless & microservices
+█ Full-Stack Innovation   - Next-gen web frameworks
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+---
+
+## 💬 Let's Build Something Great
+
+**Interested in discussing a project, sharing ideas, or exploring opportunities?**
+
+> I'm always excited to connect with fellow innovators, collaborate on cutting-edge projects, and contribute to the future of web development.
+
+---
+
+<div align="center">
+
+```
+╔═════════════════════════════════════════════════════════════╗
+║                                                             ║
+║           Made with ❤️  by Pradhumen Singh                  ║
+║                                                             ║
+║     Constantly Learning | Always Innovating | Forever Coding║
+║                                                             ║
+╚═════════════════════════════════════════════════════════════╝
+```
+
+⭐ **If you find my work interesting, please star my repositories!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=pradhumen&label=Profile%20Views&color=0e75b6&style=flat-square)
+
+</div>
+
+---
+
+<details>
+<summary><b>🔮 Easter Egg: Vision for 2025</b></summary>
+
+I'm currently exploring:
+- 🎮 WebGL & advanced 3D graphics on the browser
+- 🤖 LLM integration for intelligent applications
+- 🌐 Decentralized web technologies
+- ⚡ Performance optimization at scale
+- 🛡️ Security-first architecture patterns
+
+</details>
