@@ -65,7 +65,10 @@
 
 **Tooling**
 
-<img src="https://skillicons.dev/icons?i=cursor,vscode,visualstudio,github" height="44"/>
+<img src="https://skillicons.dev/icons?i=cursor,vscode,github" height="44"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="44"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Trae-000000?style=for-the-badge&logo=bytedance&logoColor=white" height="44"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="44"/>
 
 </div>
 
