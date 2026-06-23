@@ -393,7 +393,6 @@ I'm currently open to:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pradhumen/Pradhumen/output/snake.svg" alt="Snake animation" width="100%"/>
 
 <br/>
 
