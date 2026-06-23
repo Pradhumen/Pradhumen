@@ -53,7 +53,7 @@
 
 **3D & Real-Time**
 
-<img src="https://skillicons.dev/icons?i=threejs,webgl,blender,python" height="44"/>
+<img src="https://skillicons.dev/icons?i=threejs,blender,python" height="44"/>
 
 <br/><br/>
 
